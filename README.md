@@ -13,7 +13,7 @@ I specialize in:
 
 ## Projects
 
-### Project 1: Market Basket Analysis
+### [Project 1: Market Basket Analysis] (https://github.com/mhbabar00/Haseeb_Portfolio/blob/main/Projects/grocery_data_project.ipynb)
 
 **Purpose:** Finding out which product pairs sell the most to promote product bundling and attract more customers!
 
