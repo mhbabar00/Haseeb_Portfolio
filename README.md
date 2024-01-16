@@ -13,7 +13,33 @@ I specialize in:
 
 ## Projects
 
-### [Project 1: Market Basket Analysis](https://github.com/mhbabar00/Haseeb_Portfolio/blob/main/Projects/grocery_data_project.ipynb)
+### [Project 1: Exploratory Data Analysis of Amazon Products](https://github.com/mhbabar00/Haseeb_Portfolio/blob/main/Projects/Amazon_dataset_project.ipynb)
+
+**Purpose:** Finding out the popularity of Amazon Products based upon user ratings and how do factors like Categories, Price and Discounts affect the ratings? 
+
+**Dataset Description:** The data is taken from an excel file called "Amazon.csv" downloaded from [Kaggle](https://www.kaggle.com/datasets/ahmedsayed564/amazon-sales-dataset). It contains 1465 rows of products offered by Amazon with columns:
+
+- ___product_id___ - Product ID
+- ___product_name___ - Name of the Product
+- ___category___ - Category of the Product
+- ___discounted_price___ - Discounted Price of the Product
+- ___actual_price___ - Actual Price of the Product
+- ___discount_percentage___ - Percentage of Discount for the Product
+- ___rating___ - Rating of the Product
+- ___rating_count___ - Number of people who voted for the Amazon rating
+- ___about_product___ - Description about the Product
+- ___user_id___ - ID of the user who wrote review for the Product
+- ___user_name___ - Name of the user who wrote review for the Product
+- ___review_id___ - ID of the user review
+- ___review_title___ - Short review
+- ___review_content___ - Long review
+- ___img_link___ - Image Link of the Product
+- ___product_link___ - Official Website Link of the Product
+
+**Features:** In this analysis, I first cleaned and prepared the data for Data Analysis to remove any special characters and missing values then I used Exploratory Data Analysis (EDA) to answer the questions asked in the purpose.
+
+
+### [Project 2: Market Basket Analysis of Groceries](https://github.com/mhbabar00/Haseeb_Portfolio/blob/main/Projects/grocery_data_project.ipynb)
 
 **Purpose:** Finding out which product pairs sell the most to promote product bundling and attract more customers!
 
