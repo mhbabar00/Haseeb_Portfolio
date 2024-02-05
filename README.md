@@ -59,7 +59,7 @@ Explore my Tableau visualizations on my [Tableau Public Profile](https://public.
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/haseeb-babar-6b829b17a)
-- [Email](mhbabar2000@gmail.com)
+- [Email](mailto:mhbabar2000@gmail.com)
 
 Thank you for checking out my portfolio! Feel free to explore the projects and reach out for any collaborations or discussions.
 
