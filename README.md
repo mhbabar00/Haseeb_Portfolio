@@ -1,6 +1,6 @@
 # Welcome to Haseeb's Data Science Portfolio
 
-Hello, and thank you for visiting my GitHub repository! I am Muhammad Haseeb Babar, an aspiring Data Scientist with a passion for transforming complex data into actionable insights. With over 2 years of experience, I have honed my skills in data manipulation, analysis, and visualization. My expertise lies in creating compelling dashboards and reports that drive strategic decision-making.
+Hello, and thank you for visiting my GitHub repository! I am Muhammad Haseeb Babar, an aspiring Data Scientist with a passion for transforming complex data into actionable insights. With over 3 years of experience, I have honed my skills in data manipulation, analysis, and visualization. My expertise lies in creating compelling dashboards and reports that drive strategic decision-making.
 
 ## About Me
 
